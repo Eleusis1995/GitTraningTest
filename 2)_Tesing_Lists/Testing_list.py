@@ -6,6 +6,6 @@ newL = myL.sort()
 #parrafo agregado
 
 for i in range(0,101):
-  print(1)
+  print(i)
 
 print(newL)
